@@ -2,7 +2,8 @@ int main()
 {
     int a = 10
     int f = 20
-    int c = a + f
-    printf("%d", c)
+    int g = 20 - 3
+    int h = 20 * 4
+    printf("%d", h)
     return 0
 }
